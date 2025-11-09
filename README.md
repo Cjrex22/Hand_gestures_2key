@@ -18,4 +18,7 @@ Real-time Hand Tracking: Utilizes MediaPipe to accurately detect the position an
 
 Gesture Mapping: Specific hand movements or poses are mapped directly to standard keyboard events (e.g., moving the hand left simulates the ← key).
 
+fist closed - left arrow (continious)
+open hand - right arrow (continious)
+
 Application Control: The program can reliably control applications and games that rely on standard keyboard arrow inputs.
